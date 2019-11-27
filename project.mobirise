@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cuadriplejía",
-    "currentPage": "index.html",
+    "currentPage": "page18.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.2",
     "siteFonts": [],
-    "uniqCompNum": 242,
+    "uniqCompNum": 243,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png"
   },
@@ -13906,6 +13906,29 @@
           "_once": false,
           "_params": {},
           "_anchor": "content8-6o"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "left",
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">1. Intersocial. Análisis sobre la lesión medular en España. Federación Nacional ASPAYM. 2012. Disponible en: http://www.predif.org/sites/default/files/documents/Librito.pdf (Documento)\n<div>2. El camino Hospita [Internet] Lesiones de la médula espinal. Disponible en: https://www.elcaminohealth.org/es/library/lesiones-de-la-medula-espinal (Sitio web)\n</div><div>3. Henao-Lema C &amp; Pérez-Parra J. Lesiones medulares y discapacidad: Revisión bibliográfica. Aquichan. 2010; 10(2). Disponible en: https://www.redalyc.org/articulo.oa?id=74116245006 (Artículo de Revista)(Referencia de Tabla 1)</div></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rJ2BWrYDGy",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-6q"
         }
       ]
     },

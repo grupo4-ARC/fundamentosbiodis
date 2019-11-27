@@ -11488,6 +11488,19 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-color: #ffffff;
 }
+.cid-rJ2BWrYDGy {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #efefef;
+}
+.cid-rJ2BWrYDGy .mbr-text,
+.cid-rJ2BWrYDGy blockquote {
+  color: #767676;
+}
+.cid-rJ2BWrYDGy .mbr-text {
+  text-align: left;
+  color: #232323;
+}
 .cid-rH1oY6aRHk .navbar {
   padding: .5rem 0;
   background: #333333;
